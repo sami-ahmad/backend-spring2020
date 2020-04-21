@@ -1,2 +1,2 @@
-# backend-spring2020-sami
+# backend-spring2020
 Meda backend-spring2020
